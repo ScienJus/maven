@@ -1,2 +1,0 @@
-# maven
-my maven repository

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.scienjus</groupId>
-  <artifactId>smartqq</artifactId>
+  <artifactId>smartqq-kotlin</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20170329.071338</timestamp>
+      <timestamp>20170329.071646</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20170329071338</lastUpdated>
+    <lastUpdated>20170329071646</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20170329.071338-1</value>
-        <updated>20170329071338</updated>
+        <value>1.0-20170329.071646-1</value>
+        <updated>20170329071646</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20170329.071338-1</value>
-        <updated>20170329071338</updated>
+        <value>1.0-20170329.071646-1</value>
+        <updated>20170329071646</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
